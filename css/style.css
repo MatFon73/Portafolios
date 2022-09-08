@@ -1,0 +1,12 @@
+:root {
+    --Primary-color: rgb(29, 33, 41);
+    --Secondary-color: rgb(187, 187, 187);
+    --Light-color: white;
+    --Danger-color: #dc3545;
+    --Shaders-color: rgba(0, 0, 0, 0.75);
+    --text-primary-color: rgb(29, 33, 41);
+    --text-secunday-color: white;
+  }
+  body{
+    font-family: 'Combo', cursive;
+  }
