@@ -1,12 +1,65 @@
 :root {
-    --Primary-color: rgb(29, 33, 41);
-    --Secondary-color: rgb(187, 187, 187);
-    --Light-color: white;
-    --Danger-color: #dc3545;
-    --Shaders-color: rgba(0, 0, 0, 0.75);
-    --text-primary-color: rgb(29, 33, 41);
-    --text-secunday-color: white;
-  }
-  body{
-    font-family: 'Combo', cursive;
-  }
+  --Primary-color: rgb(29, 33, 41);
+  --Secondary-color: rgb(187, 187, 187);
+  --Light-color: white;
+}
+
+body {
+  font-family: 'Combo', cursive;
+}
+
+footer {
+  background-color: var(--Primary-color);
+  padding: 1%;
+}
+.Menu{
+  background-color: var(--Primary-color);
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 40px;
+  padding: .5%;
+}
+
+img {
+  border-radius: 5px;
+}
+.botton{
+  background-color: var(--Primary-color);
+  margin: 1%;
+  color: var(--Light-color);
+  text-decoration: none;
+  text-align: center;
+  border-radius: 5px;
+  transition: .5s;
+}
+.botton:hover{
+  text-decoration: none;
+  color: var(--Light-color);
+  transform: scale(0.9);
+}
+.end{
+  padding: 2%;
+  margin-bottom: 4%;
+}
+.avatar {
+  border-radius: 100px;
+  width: 150px;
+  height: 150px;
+  border: 1px solid white;
+  outline: 1px solid black;
+  -webkit-box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.59);
+  -moz-box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.59);
+  box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.59);
+}
+
+h1 {
+  padding: 1%;
+}
+.icon{
+  border: 3px solid var(--Primary-color);
+  border-radius: 100px;
+  padding: 10%;
+  height: 50px;
+  width: 50px;
+}
