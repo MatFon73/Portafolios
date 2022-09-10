@@ -10,7 +10,7 @@
 ## Programming Languages
 - html and css: frontend.
 
-## Librarys
+## Libraries
 - boostap: Page design.
 - fontawesome: page icon.
 
