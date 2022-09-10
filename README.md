@@ -14,10 +14,8 @@
 - boostap: Page design.
 - fontawesome: page icon.
 
-## Interface - Light Mode
-![]()
+## Interface
+![](https://i.ibb.co/51LCk6r/Sin-t-tulo.png)
 
-## Interface - Dark Mode
-![]()
 
 ### End
