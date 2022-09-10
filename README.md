@@ -15,7 +15,6 @@
 - fontawesome: page icon.
 
 ## Interface
-![](https://i.ibb.co/51LCk6r/Sin-t-tulo.png)
-
+![](https://i.postimg.cc/QCKZtTGp/Sin-t-tulo.png)
 
 ### End
