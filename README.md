@@ -5,7 +5,6 @@
 - Repository (https://github.com/MatheoFonck73/Portafolios).
 - Systems Engineering universidad de investigacion y desarrollo (UDI).
 - Created by Mateo Fonseca (https://twitter.com/MatheoFonck73).
-- Page (https://www.creaplicacion.com/matheofonck73/).
 
 ## Programming Languages
 - html and css: frontend.
